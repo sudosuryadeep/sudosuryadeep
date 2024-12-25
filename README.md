@@ -25,15 +25,16 @@ Here are some of the projects I've worked on:
 
 - **Project Name**
   - Description:
-  - I'm create a study resources bot #learnonix
+  - I'm create a study resources bot <b>learnonix</b>
 
   -  a Web is it also for study resources
     
 ## 📫 Contact
 
-- **Email:** surya01785@gmail.com
-- **LinkedIn:** https://linkdin.com/(#)
-- **GitHub:** https://github.com(#)
+- **Email:** [surya01785@gmail.com](mailto:surya01785@gmail.com)
+
+- **LinkedIn:**[https://linkdin.com/](mailto:https://linkdin.com/)
+- **GitHub:** [https://github.com](mailto:https://github.com)
 
 ## 📄 Resume
 
