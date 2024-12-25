@@ -6,7 +6,7 @@ Aspiring Software Engineer and Learning C++, Development, Eager to Learn, Collab
 
 ## 🛠️ Skills
 
-- **Programming Languages:** <sub>(learning)</sub>
+- **Programming Languages:**
   - C++ 
   - Design <sub>(logo,pptx,events)</sub>
   - html,css <sub>(Intermediate)</sub>
@@ -18,6 +18,16 @@ Aspiring Software Engineer and Learning C++, Development, Eager to Learn, Collab
   - Problem Solving
   - Collaboration
   - Continuous Learning
+
+## 📚 Learning
+
+I am currently learning:
+
+- intermediate C
+- Development Techniques 
+- New Tech Ideas and Trends
+- DSA
+- java soon
 
 ## 📈 Projects
 
@@ -38,16 +48,7 @@ Here are some of the projects I've worked on:
 
 ## 📄 Resume
 
-You can find my resume ____ (#).
-
-## 📚 Learning
-
-I am currently learning:
-
-- intermediate C
-- Development Techniques
-- New Tech Ideas and Trends
-- DSA
+You can find my resume ____ .
 
 ## 🤝 Collaboration
 
