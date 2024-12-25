@@ -23,7 +23,7 @@ Aspiring Software Engineer and Learning C++, Development, Eager to Learn, Collab
 
 I am currently learning:
 
-- intermediate C
+- intermediate C++
 - Development Techniques 
 - New Tech Ideas and Trends
 - DSA
@@ -42,9 +42,9 @@ Here are some of the projects I've worked on:
 ## 📫 Contact
 
 - **Email:** [surya01785@gmail.com](mailto:surya01785@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
+- **GitHub:** [GitHub Profile](https://github.com/)
 
-- **LinkedIn:**[https://linkdin.com/](mailto:https://linkdin.com/)
-- **GitHub:** [https://github.com](mailto:https://github.com)
 
 ## 📄 Resume
 
