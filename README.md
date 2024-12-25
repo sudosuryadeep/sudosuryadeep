@@ -6,12 +6,12 @@ Aspiring Software Engineer and Learning C++, Development, Eager to Learn, Collab
 
 ## 🛠️ Skills
 
-- **Programming Languages:** <sub><b>-learning</b></sub>
+- **Programming Languages:** <sub>(learning)</sub>
   - C++ 
-  - Design <sub><b>-logo,-pptx,-events</b></sub>
-  - html,css <sub><b>-Intermediate</b></sub>
+  - Design <sub>(logo,pptx,events)</sub>
+  - html,css <sub>(Intermediate)</sub>
 
-- **Development:** <sub><b>-learning</b></sub>
+- **Development:** <sub>(learning)</sub>
   - Bot, Simple Web...
 
 - **Other Skills:**
